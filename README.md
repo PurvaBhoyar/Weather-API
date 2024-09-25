@@ -1,0 +1,1 @@
+A simple weather application that fetches real-time weather data using an external API. It allows users to check the current weather conditions by entering the name of a city, displaying details such as temperature, humidity, and weather description.
